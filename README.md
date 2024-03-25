@@ -1,4 +1,4 @@
-<b>Opa! Eu sou o Bruno Chaves, Desenvolvedor Front-end 😎</b>
+### <b>Opa! Eu sou o Bruno Chaves, Desenvolvedor Front-end 😎</b>
 
 - 🌱 Estudando React.js<br>
 - 📩 Contato: brunochavesuk@icloud.com<br>
