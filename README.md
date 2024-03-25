@@ -1,7 +1,7 @@
 ### <b>Opa! Eu sou o Bruno Chaves, Desenvolvedor Front-end 😎</b>
 
-- 🌱 Estudando React.js<br>
-- 📩 Contato: brunochavesuk@icloud.com<br>
+- 🌱 Estudando React.js<br><br>
+
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obrunochaves&show_icons=true&theme=dark&iclude_all_commits=true&count_private=true"/>
